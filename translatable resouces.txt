@@ -1,0 +1,13 @@
+translatable resouces
+https://shopify.dev/docs/api/admin-graphql/2024-04/queries/translatableResources
+
+
+OnlineStoreArticle as  ONLINE_STORE_ARTICLE
+  is inside a of a BLOG
+gid://shopify/OnlineStoreArticle/606974804310
+
+OnlineStoreBlog as ONLINE_STORE_BLOG
+gid://shopify/OnlineStoreBlog/101050319190
+
+OnlineStoreMenu
+"gid://shopify/OnlineStoreMenu/247539171670",
